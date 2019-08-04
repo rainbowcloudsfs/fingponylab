@@ -1,0 +1,4 @@
+QEVM由Mimiks-Workshop的MIAIONE负责,不由Fing Pony Lab 负责.
+但是 Fing Pony Security Essential 由Fing Pony Lab 负责.
+Fing Pony Security Essential 基于某mt协议的杀毒软件
+ 
