@@ -3,7 +3,7 @@
 [Rainbow Dash Desktop]
 Name = Rainbow Dash Desktop
 ProductVersion = 3.0.0.0
-URL = file:///C:/Program%20Files%20(x86)/Rainbow%20Dash%20Desktop\update\Rainbow Dash Desktop.exe
+URL = file:///C:/ProgramData/(c)%202019%20FingPony%20Studio/Rainbow%20Dash%20Desktop/updates/
 Size = 257563967
 MD5 = 7517ec0d3aade3b77457ea93ae9702ce
 ServerFileName = Rainbow Dash Desktop.exe
