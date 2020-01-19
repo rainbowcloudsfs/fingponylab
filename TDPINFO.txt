@@ -1,5 +1,7 @@
-</Directory>
-  </IfDefine>
-      </IfDefine>
-  </IfDefine>
-</Directory>
+恶意网站列表
+下述样本具有危险性请非专业人士请勿复制浏览器打开
+
+涉及盗号的网站
+hxxps://t[.]uc[.]cn/1_aaebA?_wv=3
+hxxp://cdn[.]tx8892[.]com:88/
+上述网站包括反侦察请测试人员使用手机测试
