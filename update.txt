@@ -8,4 +8,4 @@ Size = 257563967
 MD5 = 7517ec0d3aade3b77457ea93ae9702ce
 ServerFileName = Rainbow Dash Desktop.exe
 RegistryKey = HKUD\Software\(c) 2019 FingPony Studio\Rainbow Dash Desktop\Version
-Version = 2.0.0.0
+Version = 3.0.0.0
