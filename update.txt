@@ -10,5 +10,5 @@ MD5 = 9ca690c423ff9e8f8e7a83f07545e911
 ServerFileName = Rainbow Dash Desktop OTA.exe
 RegistryKey = HKUD\Software\Fing Pony Lab\Rainbow Dash Desktop OTA\Version
 Version = 2.0.0.0
-UpdatedApplications = Rainbow Dash Desktop OTA??[1.0-2.0)
+UpdatedApplications = Rainbow Dash Desktop OTA[1.0-2.0)
 AutoCloseApplication = C:\Program Files (x86)\Rainbow Dash Desktop\Rainbow Dash Desktop.exe
