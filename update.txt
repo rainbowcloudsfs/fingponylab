@@ -1,11 +1,14 @@
 ;aiu;
 
-[Rainbow Dash Desktop]
-Name = Rainbow Dash Desktop
+[Update]
+Name = Rainbow Dash Desktop OTA
 ProductVersion = 2.0.0.0
-URL = file:///C:/ProgramData/(c)%202019%20FingPony%20Studio/Rainbow%20Dash%20Desktop/updates/
-Size = 257563967
-MD5 = 7517ec0d3aade3b77457ea93ae9702ce
-ServerFileName = Rainbow Dash Desktop.exe
-RegistryKey = HKUD\Software\(c) 2019 FingPony Studio\Rainbow Dash Desktop\Version
-Version = 3.0.0.0
+URL = file:///C:/otdbio/Rainbow Dash Desktop OTA.exe
+Size = 74868572
+SHA256 = F2156FBACFFE83581EC49F1797E5DCC7BB4CC36D5D8A3B77CB000BD06D23F734
+MD5 = 9ca690c423ff9e8f8e7a83f07545e911
+ServerFileName = Rainbow Dash Desktop OTA.exe
+RegistryKey = HKUD\Software\Fing Pony Lab\Rainbow Dash Desktop OTA\Version
+Version = 2.0.0.0
+UpdatedApplications = Rainbow Dash Desktop OTA??[1.0-2.0)
+AutoCloseApplication = C:\Program Files (x86)\Rainbow Dash Desktop\Rainbow Dash Desktop.exe
