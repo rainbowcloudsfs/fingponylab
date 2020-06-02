@@ -2,7 +2,7 @@
 
 [Rainbow Dash Desktop]
 Name = Rainbow Dash Desktop
-ProductVersion = 10.0.0.0
+ProductVersion = 2.0.0.0
 URL = file:///C:/ProgramData/(c)%202019%20FingPony%20Studio/Rainbow%20Dash%20Desktop/updates/
 Size = 257563967
 MD5 = 7517ec0d3aade3b77457ea93ae9702ce
