@@ -1,2 +1,0 @@
-# fingponylx
-Fing Pony Lab
